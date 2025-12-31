@@ -20,5 +20,5 @@
 <p>Improve Navigate page</p>
 # My Second Page
 
-![Second Page](https://github.com/ThanuraTG/HellowAndroidUi/blob/c6f3ffa9e73d81fed92aa6e16620afbbc7b497e5/second%20page.jpg)
+![Second Page](https://github.com/Musfir2327/Hello-Android-UI/blob/c4aa73f0c016293f82af255f8b66bf0403ca4853/second%20page.png)
 
